@@ -1,0 +1,1 @@
+export ORDERER_TLS=${PWD}/organizations/ordererOrganizations/example.com/tlsca/tlsca.example.com-cert.pem

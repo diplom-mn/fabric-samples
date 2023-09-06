@@ -1,0 +1,1 @@
+peer chaincode query -C channel1 -n diploma-basic -c '{"Args":["ReadCertificate", "https://diplom.mn/must/1"]}'
